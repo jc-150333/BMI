@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace BMI2
+
 {
     public partial class MainPage : ContentPage
     {
