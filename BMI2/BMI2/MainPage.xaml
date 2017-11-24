@@ -5,6 +5,8 @@
              x:Class="BMI2.MainPage">
     <ContentPage.Content>
         <StackLayout>
+            <Label Text="JK3A09 門岡秀明"/>
+            
             <Label Text="身長"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
